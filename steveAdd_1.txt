@@ -1,14 +1,14 @@
 
 
-steve added a file
+1: steve added a file
 
-steve added a (silly file) file
+2: steve added a (silly file) file
 
-minowe added to steve's file 
+3: minowe added to steve's file 
 
 
-steve adds a line not knowing about min's effort 
+4 : steve adds a line not knowing about min's effort 
 
-min adds line trying to create conflict 
+5: min adds line trying to create conflict 
 
-steve adds more 
+6: steve adds more 
