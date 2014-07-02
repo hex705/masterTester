@@ -14,10 +14,5 @@
 
 6: min adds another 6th line -- steve has one already 
 
-4 : steve adds a line not knowing about min's effort 
-
-5: min adds line trying to create conflict 
-
-6: steve adds more 
 
 8: test
