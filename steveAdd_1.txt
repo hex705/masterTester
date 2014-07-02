@@ -7,11 +7,21 @@
 3: minowe added to steve's file 
 
 
+
+4: steve adds a line not knowing about min's effort 
+
+5: min adds line trying to create conflict 
+
+6: min adds another 6th line -- steve has one already 
+
 4 : steve adds a line not knowing about min's effort 
 
 5: min adds line trying to create conflict 
 
 6: steve adds more 
 
+<<<<<<< HEAD
 7: silly
 
+=======
+>>>>>>> cc3986e4aa1ba0ed03f54392d5d32b80207f0ba9
