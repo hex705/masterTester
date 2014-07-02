@@ -11,3 +11,4 @@ steve adds a line not knowing about min's effort
 
 min adds line trying to create conflict 
 
+steve adds more 
