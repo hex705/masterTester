@@ -6,8 +6,8 @@ steve added a (silly file) file
 
 minowe added to steve's file 
 
-<<<<<<< HEAD
+
 steve adds a line not knowing about min's effort 
-=======
+
 min adds line trying to create conflict 
->>>>>>> 7287982b9b98a58badc65040e8cc1d15df28fa2e
+
